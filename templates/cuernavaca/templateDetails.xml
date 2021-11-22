@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>Cuernavaca</name>
+	<creationDate>2021-11-08</creationDate>
+	<author>Yael Montes</author>
+	<authorEmail>Yael_montes@outlook.com</authorEmail>
+	<authorUrl>http://cuernavaca.gob.mx</authorUrl>
+	<copyright>Cuernavaca 2021</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.0</version>
+	<description>Pagina oficial del gobierno municipal de Cuernavaca, ciudad de la eterna primavera.</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+        <folder>js</folder>
+	</files>
+	<positions>
+		<position>menu</position>
+		<position>component</position>
+		<position>semaforo</position>
+		<position>destacados1</position>
+		<position>destacados1-img</position>
+		<position>destacados2</position>
+		<position>destacados2-img</position>
+		<position>destacados3</position>
+		<position>destacados3-img</position>
+		<position>destacados4</position>
+		<position>destacados4-img</position>
+		<position>destacados5</position>
+		<position>destacados5-img</position>
+		<position>noticia1-info</position>
+		<position>noticia1-img</position>
+		<position>noticia2-info</position>
+		<position>noticia2-img</position>
+		<position>noticia3-info</position>
+		<position>noticia3-img</position>
+		<position>banner</position>
+		<position>encuentranos</position>
+	</positions>
+</extension>
